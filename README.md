@@ -1,4 +1,4 @@
-#  **Self Driving with ANN and Genetic Algorithm Optimizer in JavaScript**
+#  **Self Driving Car ANN in JavaScript**
 
 ### **Summary** :
 
